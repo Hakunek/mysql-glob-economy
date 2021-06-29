@@ -1,6 +1,6 @@
 {
     "name": "mysql-glob-economy",
-    "version": "1.0.0",
+    "version": "1.0.2-Beta",
     "description": "An easy to use npm economy package using mysql database",
     "main": "app.js",
     "repository": {
