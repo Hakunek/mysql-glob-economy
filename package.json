@@ -1,0 +1,27 @@
+{
+    "name": "mysql-glob-economy",
+    "version": "1.0.0",
+    "description": "An easy to use npm economy package using mysql database",
+    "main": "app.js",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Hakunek/mysql-glob-economy.git"
+    },
+    "keywords": [
+        "mysql",
+        "discordjs",
+        "discord.js",
+        "eco",
+        "economy",
+        "database"
+    ],
+    "author": "Shawn & Waves",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/Hakunek/mysql-glob-economy/issues"
+    },
+    "homepage": "https://github.com/Hakunek/mysql-glob-economy#readme",
+    "dependencies": {
+        "mysql2": "^2.2.5"
+    }
+}
